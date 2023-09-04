@@ -1,0 +1,48 @@
+.product-card{
+    border: 1px solid black;
+    padding: 1rem;
+    border-radius: 10px;
+    background: #ededed;
+    margin: 15px;
+    width: 20rem;
+    height: 21rem;
+}
+.product-card img{
+    width: 100%;
+    height: 100%;
+}
+.product-card hr{
+    border: none;
+    border-top: 1px solid black;
+    color: #333;
+}
+.product-card:hover{
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    cursor: pointer;
+}
+.product-card span{
+    color: green;
+    margin-top: 10px;
+}
+.btn{
+    border: 1px solid black;
+    margin-top: 7px;
+    padding: 4px;
+    border-radius: 5px;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: #00000001;
+}
+.price{
+    margin-top: 5px;
+}
+.disc{ 
+    margin-top: 5px;
+}
+.img-container{
+    margin-bottom: 30px;
+    width: 19rem;
+    height: 12rem;
+}

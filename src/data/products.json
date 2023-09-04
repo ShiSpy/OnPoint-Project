@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": 1,
+    "name": "Air Jordan 6 Retro 13",
+    "description": "MJ wore 'em when he claimed his first...",
+    "price": "$222.40",
+    "details": "MJ wore 'em when he claimed his first championship and you'll be wearing 'em for—well, whatever you want. Laden with dynamic design lines and those iconic lace locks, these sneakers bring throwback style to any outfit. Lace up, and let your kicks do the talking.", 
+    "image": "/static/media/shoe1.30008047f5f060ac598a.png"
+  },
+  {
+    "id": 2,
+    "name": "Jordan Ultra Fly 2",
+    "description": "The Jordan Ultra Fly 2 Low features...", 
+    "price": "$135",
+    "details": "The Jordan Ultra Fly 2 Low features lightweight and supportive construction. They feature a textile upper, Zoom Air technology, rope laces that integrate with the webbing, and a multidirectional traction pattern on the outsole.",
+    "image": "/static/media/shoe2.7e63b1ae2cd18814208a.png"
+  },
+  {
+    "id": 3,
+    "name": "Air Jordan 1 Retro High",
+    "description": "The Air Jordan 1 Retro High remakes...",
+    "price": "$205.30",
+    "details": "The Air Jordan 1 Retro High remakes the classic sneaker, giving you a fresh look with a familiar feel. Premium materials with new colours and textures give modern expression to an all-time favourite.",
+    "image": "/static/media/shoe3.840a161900cffe19bf81.png"
+  },
+  {
+    "id": 4,
+    "name": "Air Jordan 6 Rings 9",
+    "description": "Celebrate the legendary career of...",
+    "price": "$127.97",
+    "details": "Celebrate the legendary career of 'His Airness' with the Jordan 6 Rings. Incorporating key features of each shoe worn during the championship series, it has premium details and lightweight, low-profile Zoom Air cushioning that delivers a responsive feel underfoot.",
+    "image": "/static/media/shoe4.12a99bf7267e56354d81.png"
+  },
+  {
+    "id": 5,
+    "name": "Air Jordan 5 Retro 8",
+    "description": "Bring some pop to your look with...",
+    "price": "$233",
+    "details": "Bring some pop to your look with the AJ5, the shoe that's recognisably cool. All the original elements are here: lace toggles, premium leather and that unmissable midsole. Updated with new colours and textures, here's a shoe that keeps every look fresh.",
+    "image": "/static/media/shoe5.616bd93731f90def3986.png"
+  },
+  {
+    "id": 6,
+    "name": " Air Jordan 13 Retro",
+    "description": "The Air Jordan 13 Retro brings back...",
+    "price": "$235",
+    "details": "The Air Jordan 13 Retro brings back the memorable game shoe that Michael Jordan wore during the '97–98 season, all the way to his 6th championship title. All the classic details are there like the quilted overlay, iconic sculpted midsole and holographic eye.",
+    "image": "/static/media/shoe6.5f6a6196c33195fbb807.png"
+  }
+]
